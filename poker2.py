@@ -1,6 +1,7 @@
 import random
 
 #trying to see if git works
+#now see different branch
 
 class Players(object):
     def __init__(self,amount,name):
