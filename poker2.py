@@ -1,5 +1,6 @@
 import random
 
+#trying to see if git works
 
 class Players(object):
     def __init__(self,amount,name):
